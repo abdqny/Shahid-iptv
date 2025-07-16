@@ -1,21 +1,21 @@
 #EXTM3U
 
 ### الموسم الأول - طاش ما طاش
-#EXTINF:-1 group-title="مسلسلات" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S01E01 - عذاري
+#EXTINF:-1 group-title="Series" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S01E01 - عذاري
 https://mbcvod-enc.edgenextcdn.net/out/v1/877ee1f9a8ed45ba999db838fa5b9643/2481eb9dfde14284b2b8852302df4759/2243bbdf6b024b1ca9a192817021c761/manifest.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 
-#EXTINF:-1 group-title="مسلسلات" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S01E02 - خدمات 2000
+#EXTINF:-1 group-title="Series" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S01E02 - خدمات 2000
 https://mbcvod-enc.edgenextcdn.net/out/v1/70d283fe5f004e839b56be5a3364d481/a5eda9aa9a5b45aa9bbf00dc133ca83e/c172ad86e318465bb66d213901cf5e48/manifest.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 
-#EXTINF:-1 group-title="مسلسلات" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S01E03 - للتقبيل لعدم التفرغ
+#EXTINF:-1 group-title="Series" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S01E03 - للتقبيل لعدم التفرغ
 https://mbc-aws-ksa.mncdn.com/out/v1/b7edeedcc98a404c84a61db26f6502fe/fdd93f1ad5a1453ea0d7466759abf314/4ce8f24b15ac465cb580c373ad8c148a/manifest.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 
 ### الموسم الثاني - طاش ما طاش
-#EXTINF:-1 group-title="مسلسلات" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S02E01 - يامن شراله من حلاله علتين
+#EXTINF:-1 group-title="Series" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S02E01 - يامن شراله من حلاله علتين
 https://mbcvod-enc.edgenextcdn.net/out/v1/6e69625c37c84d1caf7d3af837ee9636/25b5d10d578e4a2cbd2dcc1dd76d21e0/9f3a84603dae467c9cdb3d4c1c7e144f/manifest.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 
-#EXTINF:-1 group-title="مسلسلات" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S02E02 - غرفه 124
+#EXTINF:-1 group-title="Series" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S02E02 - غرفه 124
 https://mbcvod-enc.edgenextcdn.net/out/v1/c129e3a1fa394d7a923f297fa6106bd5/8d4791cf4ff34ae7a8b4ffd51f37169d/3db5eebfb244433db4418602f91a13b9/manifest.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 
-#EXTINF:-1 group-title="مسلسلات" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S02E03 - إنتشروا
+#EXTINF:-1 group-title="Series" tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0", طاش ما طاش - S02E03 - إنتشروا
 https://mbc-aws-ksa.mncdn.com/out/v1/4f09f58fd097401b8147591f7e672db5/a9d4ad2b09f54725b563158e432b3c34/0e6f51f98818485e9ee145449c9edfc3/manifest.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
